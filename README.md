@@ -7,11 +7,11 @@
 <h1 align="center">Hi 👋, I'm Danilo Carlosama</h1>
 
 <h3 align="center">
-Software Engineering Student | Software & Web Development
+Software Engineering Student
 </h3>
 
 <p align="center">
-Passionate about software development and building solutions through technology.
+Software development, web applications and real-world projects.
 </p>
 
 <br>
@@ -52,22 +52,22 @@ Passionate about software development and building solutions through technology.
 <h2 align="center">🚀 Featured Projects</h2>
 
 <p align="center">
-  <a href="https://github.com/Danilo2334">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Danilo2334&repo=PROYECTO_1&theme=tokyonight&hide_border=true" />
+  <a href="https://github.com/francisco3788/Evaluaci-n-proyecto-IA-Caf-">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=francisco3788&repo=Evaluaci-n-proyecto-IA-Caf-&theme=tokyonight&hide_border=true" />
   </a>
 
-  <a href="https://github.com/Danilo2334">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Danilo2334&repo=PROYECTO_2&theme=tokyonight&hide_border=true" />
+  <a href="https://github.com/Danilo2334/Pipeline_ETL_Analitica_Desercion_Estudiantil">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Danilo2334&repo=Pipeline_ETL_Analitica_Desercion_Estudiantil&theme=tokyonight&hide_border=true" />
   </a>
 </p>
 
 <p align="center">
-  <a href="https://github.com/Danilo2334">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Danilo2334&repo=PROYECTO_3&theme=tokyonight&hide_border=true" />
+  <a href="https://github.com/Danilo2334/servertls">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Danilo2334&repo=servertls&theme=tokyonight&hide_border=true" />
   </a>
 
-  <a href="https://github.com/Danilo2334">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Danilo2334&repo=PROYECTO_4&theme=tokyonight&hide_border=true" />
+  <a href="https://github.com/Danilo2334/reproductor-musica">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Danilo2334&repo=reproductor-musica&theme=tokyonight&hide_border=true" />
   </a>
 </p>
 
@@ -76,12 +76,8 @@ Passionate about software development and building solutions through technology.
 <h2 align="center">📫 Connect with Me</h2>
 
 <p align="center">
-  <a href="mailto:TU_CORREO">
+  <a href="mailto:danilocarlosama96@gmail.com">
     <img src="https://img.shields.io/badge/Email-2563EB?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-
-  <a href="TU_LINKEDIN">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 
   <a href="https://github.com/Danilo2334">
